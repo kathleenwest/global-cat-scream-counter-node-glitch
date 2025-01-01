@@ -2,7 +2,7 @@
 
 Did your cat 🐈 scream today? Let the world 🌎 know. Add their screams on the site hosted on [Glitch](https://cat-scream-counter.glitch.me/)
 
-![Demo of App](demo.jpg)
+![Demo of App](https://cdn.glitch.global/b51151d7-0f53-4976-8558-3d4c10e294f7/public%2Fdemo.jpg?v=1735751951404)
 
 ## How to Add Your Cat Scream
 
