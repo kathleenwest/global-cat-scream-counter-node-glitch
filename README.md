@@ -1,6 +1,6 @@
 # A Global Cat Scream 🙀 Counter Web Application
 
-Did your cat 🐈 scream today? Let the world 🌎 know. Add their screams on the site hosted on [Glitch](https://cat-scream-counter.glitch.me/)
+Did your cat 🐈 scream today? Let the world 🌎 know. Add their screams on the site hosted on [Glitch](https://cat-scream-counter.glitch.me/) with [Project Code](https://glitch.com/~cat-scream-counter)
 
 ![Demo of App](https://cdn.glitch.global/b51151d7-0f53-4976-8558-3d4c10e294f7/public%2Fdemo.jpg?v=1735751951404)
 
@@ -18,6 +18,10 @@ Quick start:
 $ npm install
 $ npm start
 ````
+
+## Demo Links
+
+[Global Cat Scream 🙀 Counter Web Application](https://cat-scream-counter.glitch.me/) with [Project Code](https://glitch.com/~cat-scream-counter)
 
 ## Why Did You Make This?
 
