@@ -6,9 +6,9 @@ Did your cat 🐈 scream today? Let the world 🌎 know. Add their screams on th
 
 ## How to Add Your Cat Scream
 
-Navigate to the demo site here TBA.
-Add the number of cat screams.
-Click on SAVE.
+- Navigate to the demo site hosted on [Glitch](https://cat-scream-counter.glitch.me/)
+- Add the number of cat screams.
+- Click on SAVE.
 
 ## How to Run Project Locally
 
