@@ -1,0 +1,7 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "A Global Cat Scream 🙀 Counter Web Application",
+  "description": "Did your cat 🐈 scream today? Let the world 🌎 know.",
+  "url": "https://cat-scream-counter.glitch.me/",
+  "image": "https://cdn.glitch.global/b51151d7-0f53-4976-8558-3d4c10e294f7/catscreamsmall.jpg?v=1735742776939"
+}
